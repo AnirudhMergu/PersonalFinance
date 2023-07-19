@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/AnirudhMergu/personal-finance-frontend
+[submodule "server"]
+	path = server
+	url = https://github.com/AnirudhMergu/personal-finance-backend
